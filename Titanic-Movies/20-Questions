@@ -1,0 +1,22 @@
+Here are 20 easy questions to help you analyze the Titanic dataset using SQL:
+
+1. How many passengers were on the Titanic?
+2. How many passengers survived?
+3. How many passengers did not survive?
+4. What is the average age of the passengers?
+5. How many male passengers were on the Titanic?
+6. How many female passengers were on the Titanic?
+7. How many passengers were in each passenger class (Pclass)?
+8. What is the average fare paid by passengers?
+9. How many passengers embarked from each port (Embarked)?
+10. How many siblings/spouses (SibSp) did the average passenger have?
+11. How many parents/children (Parch) did the average passenger have?
+12. What is the distribution of survivors across different passenger classes?
+13. What is the survival rate for male passengers?
+14. What is the survival rate for female passengers?
+15. What is the survival rate for each passenger class?
+16. What is the average age of survivors?
+17. What is the average age of non-survivors?
+18. How many passengers had a cabin assigned (non-null Cabin values)?
+19. What is the average fare for each passenger class?
+20. How many passengers had the same ticket number?
