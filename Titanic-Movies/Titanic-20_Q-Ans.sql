@@ -87,7 +87,7 @@ FROM
 GROUP BY
     `survived`,
     `Pclass`;
-
+------------------------------------------------------------------------------------------------
 -- 13. What is the survival rate for male passengers?
 --m1
 SELECT
